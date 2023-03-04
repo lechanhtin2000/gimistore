@@ -9,5 +9,4 @@ public class GimistoreApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GimistoreApplication.class, args);
 	}
-
 }
