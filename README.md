@@ -1,2 +1,3 @@
 # gimistore
-Gimi store website
+Gimi store website 
+First check git
